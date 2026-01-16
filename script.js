@@ -11,7 +11,7 @@ let inputMode = "text";  // track how user sent message
 
 
 // API setup
-const API_URL = "http://localhost:3000/chat";
+const API_URL = "/api/chat";
 
 
 // Initialize user message and file data
